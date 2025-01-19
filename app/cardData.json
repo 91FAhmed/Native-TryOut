@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Keukenhof Flower garden",
+    "imageUri": "https://shorturl.at/6dcOr",
+    "imageLabel": "Netherlands",
+    "learn": "https://en.wikipedia.org/wiki/Keukenhof",
+    "imageContent": " Keukenhof is located in the province of South Holland, south of Haarlem and southwest of Amsterdam in the area called the Dune and Bulb Region (Duin- en Bollenstreek). It is accessible by bus from Haarlem and Leiden train stations as well as Schiphol. Though its grounds are open year-round for private affairs and festivals, Keukenhof is only open to the general public for a world-renownedeight week tulip display from mid-March to mid-May."
+  },
+  {
+    "title": "Reynisfjara",
+    "imageUri": "https://shorturl.at/QG7OS",
+    "imageLabel": "Iceland",
+    "learn": "https://en.wikipedia.org/wiki/Reynisdrangar",
+    "imageContent": "Just a 20-minute drive from Vik, in southern Iceland, jet-black sand and spectacularly shaped basalt columns make Reynisfjara one of the most impressive sites in the country. Spend a foggy afternoon strolling along the rugged coast (just strolling—these waters are definitely not made for swimming) and photographing the moon-like rock formations, deep caves, and towering cliff faces."
+  },
+  {
+    "title": "Railay West Beach ",
+    "imageUri": "https://shorturl.at/h1X4n",
+    "imageLabel": "Thailand",
+    "learn": "https://en.wikipedia.org/wiki/Railay_Beach",
+    "imageContent": " On the Railay peninsula's west side, Krabi's famous karsts meet a simply stunning jade-green lagoon. The vertical cliffs block access from the Krabi mainland, making Railay reachable only by boat, adding to its incredible appeal,Thailand is so much more than a travel destination — visiting is a bona fide rite of passage. From hostel-hopping backpackers to well-heeled five-star hotel aficionados, everyone will find something to love about “The Land of Smiles.”  "
+  }
+]

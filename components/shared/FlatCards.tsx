@@ -6,7 +6,7 @@ export default function FlatCards() {
   return (
     <View>
       <ScrollView>
-        <Text style={Styles.heading}>Flat Cardss</Text>
+        <Text style={Styles.heading}>Flat Cards</Text>
         <View style={Styles.container}>
           <View style={[Styles.card, Styles.cardOne]}>
             <Text style={{ fontSize: 20, color: "#212121" }}>Red</Text>

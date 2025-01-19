@@ -44,8 +44,9 @@ const Styles = StyleSheet.create({
     paddingHorizontal: 8,
   },
   content: {
-    fontSize: 16,
+    fontSize: 12,
     padding: 10,
+    fontWeight: "bold",
   },
   fancyCard: {
     margin: 10,
@@ -56,6 +57,21 @@ const Styles = StyleSheet.create({
       width: 1,
       height: 1,
     },
+  },
+  profile: {
+    height: 50,
+    width: 50,
+  },
+  Contact: {
+    backgroundColor: "#EC4849",
+    padding: 16,
+    marginHorizontal: 10,
+    borderRadius: 4,
+    alignItems: "center",
+    marginVertical: 4,
+  },
+  spacer: {
+    alignItems: "center",
   },
 });
 
